@@ -21,7 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="40"/>
 </div>
 
-###  Проекты:
+###
+
+⚡ Мои проекты:
 | Название |
 | :--------: |
 |[Исследовательский анализ данных Яндекс Афиша](https://github.com/aleksandra-fedorova/my-projects/tree/main/Исследовательский%20анализ%20данных%20Яндекс%20Афиша) 
