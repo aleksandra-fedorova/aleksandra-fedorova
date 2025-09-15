@@ -24,7 +24,7 @@
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[Интерактивный дашборд](https://github.com/DinkyPinky/Data-Science/tree/main/Games-Dashboard) |<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=red"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue"/>|
+|[Интерактивный дашборд](https://github.com/aleksandra-fedorova/my-projects/tree/main/Исследовательский%20анализ%20данных%20Яндекс%20Афиша) 
 |[SQL Retention rate](https://github.com/DinkyPinky/Data-Science/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[SQL Работа с тренировочной базой данных по авиалиниям](https://github.com/DinkyPinky/Data-Science/tree/main/SQL/Airlines-database) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Модель раннего обнаружения неисправностей оборудования](https://github.com/DinkyPinky/Data-Science/tree/main/HACKATON-malfunction-prediction) |<img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/><img src="https://img.shields.io/badge/PyArrow-black?style=flat-square&logo=apache&logoColor=orange"/><img src="https://img.shields.io/badge/Dask-black?style=flat-square&logo=dask&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
